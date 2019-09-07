@@ -48,7 +48,7 @@ export class Register extends Component {
           <h2 className="text-center">Register</h2>
           <form onSubmit={this.onSubmit}>
             <div className="form-group">
-              <label>Username</label>
+              <label>Usernames</label>
               <input
                 type="text"
                 className="form-control"

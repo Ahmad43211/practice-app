@@ -34,7 +34,7 @@ export class Header extends Component {
       <ul ClassName="navbar-nav mr-auto mt-2 mt-lg-0">
         <li className="nav-item">
           <Link to="/register" className="nav-link">
-            Register
+            Registers
           </Link>
         </li>
         <li className="nav-item">
